@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "avto1234",
-    "database": "testtask",
-    "host": "localhost",
+    "username": // same as .env POSTGRES_USER
+    "password",: // same as .env POSTGRES_PASSWORD
+    "database": // same as .env POSTGRES_DB
+    "host",: "localhost",
     "dialect": "postgres",
     "migrationStorageTableName": "sequelize_meta",
     "define": {
