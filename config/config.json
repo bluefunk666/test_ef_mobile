@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "avto1234",
+    "database": "testtask",
+    "host": "localhost",
+    "dialect": "postgres",
+    "migrationStorageTableName": "sequelize_meta",
+    "define": {
+      "timestamps": true
+    }
+  }
+}
